@@ -12,7 +12,7 @@ Un generador de contraseñas seguras y aleatorias con interfaz web moderna y lim
 
 ## 🚀 Demo en Vivo
 
-Visita la aplicación: [https://tuusuario.github.io/password_generator](https://tuusuario.github.io/password_generator)
+Visita la aplicación: ([https://tuusuario.github.io/password_generator](https://maecaraballo.github.io/password-generator/))
 
 ## 🛠️ Tecnologías
 
